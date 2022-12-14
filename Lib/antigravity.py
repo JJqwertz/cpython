@@ -2,7 +2,7 @@
 import webbrowser
 import hashlib
 
-webbrowser.open("https://xkcd.com/353/")
+webbrowser.open("https://xkcd.com/2353/")
 
 def geohash(latitude, longitude, datedow):
     '''Compute geohash() using the Munroe algorithm.
